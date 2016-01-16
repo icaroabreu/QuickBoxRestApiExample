@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">QuickBoxRestApiExample</string>
+
+    <!--
+    // Util
+    -->
+    <string name="auth_hmac_sha_body">application_id={0}&amp;auth_key={1}&amp;nonce={2}&amp;timestamp={3}</string>
+
+    <!--
+	//  Prompt
+	-->
+    <string name="prompt_user_login">Login</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_confirm_password">Confirme Senha</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Nome Completo</string>
+    <string name="prompt_website">Website</string>
+    <string name="prompt_obs">Observação</string>
+
+    <!--
+	//  Action
+	-->
+    <string name="action_ok">OK</string>
+    <string name="action_login">Entrar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_send">Enviar</string>
+    <string name="action_confirm">Confirmar</string>
+    <string name="action_signup">Cadastrar-se</string>
 </resources>

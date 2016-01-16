@@ -2,4 +2,32 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Default paddings -->
+    <dimen name="half_padding">0.5dp</dimen>
+    <dimen name="dot_padding">1dp</dimen>
+    <dimen name="two_padding">2dp</dimen>
+    <dimen name="hale_padding">3dp</dimen>
+    <dimen name="four_dots_padding">4dp</dimen>
+    <dimen name="single_padding">6dp</dimen>
+    <dimen name="trivial_padding">7.5dp</dimen>
+    <dimen name="middle_padding">9dp</dimen>
+    <dimen name="double_padding">12dp</dimen>
+    <dimen name="triple_padding">18dp</dimen>
+    <dimen name="fourth_padding">24dp</dimen>
+    <dimen name="fifth_padding">30dp</dimen>
+    <dimen name="sixth_padding">36dp</dimen>
+    <dimen name="seventh_padding">40dp</dimen>
+    <dimen name="eighth_padding">46dp</dimen>
+    <dimen name="separate_elements">24dp</dimen>
+
+    <!-- Text -->
+    <dimen name="text_body_regular">14sp</dimen>
+    <dimen name="text_overhead">17sp</dimen>
+    <dimen name="text_head">16sp</dimen>
+    <dimen name="text_subhead">15sp</dimen>
+    <dimen name="text_title">20sp</dimen>
+    <dimen name="text_headline">24sp</dimen>
+    <dimen name="text_caption">12sp</dimen>
+    <dimen name="text_button_all_caps">14sp</dimen>
 </resources>
