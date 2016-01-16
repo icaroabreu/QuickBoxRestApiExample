@@ -5,6 +5,7 @@
     // Util
     -->
     <string name="auth_hmac_sha_body">application_id={0}&amp;auth_key={1}&amp;nonce={2}&amp;timestamp={3}</string>
+    <string name="auth_hmac_sha_body_with_user">application_id={0}&amp;auth_key={1}&amp;nonce={2}&amp;timestamp={3}&amp;user[login]={4}&amp;user[password]={5}</string>
 
     <!--
 	//  Prompt
@@ -15,7 +16,17 @@
     <string name="prompt_email">Email</string>
     <string name="prompt_name">Nome Completo</string>
     <string name="prompt_website">Website</string>
-    <string name="prompt_obs">Observação</string>
+    <string name="prompt_tag_list">Tags(separe por virgulas(,))</string>
+    <string name="prompt_phone">Telefone</string>
+
+    <!--
+	//  Action
+	-->
+    <string name="warning_invalid_email">Email inválido</string>
+    <string name="warning_required">Obrigatório</string>
+    <string name="warning_diferent_passwords">Senhas Diferentes</string>
+    <string name="warning_generic">Erro</string>
+    <string name="warning_unknown">Ocorreu algúm erro, tente novamente…</string>
 
     <!--
 	//  Action
@@ -26,4 +37,14 @@
     <string name="action_send">Enviar</string>
     <string name="action_confirm">Confirmar</string>
     <string name="action_signup">Cadastrar-se</string>
+    <string name="action_update_user">Editar Dados</string>
+    <string name="action_request_reset_password">Esqueci minha senha</string>
+
+    <!--
+	//  Label
+	-->
+    <string name="label_success">Sucesso!</string>
+    <string name="label_check_email">Verifique seu email.</string>
+    <string name="label_reset_password">Resetar Senha</string>
+    <string name="label_user_updated">Seus dados foram atualizados com sucesso!</string>
 </resources>

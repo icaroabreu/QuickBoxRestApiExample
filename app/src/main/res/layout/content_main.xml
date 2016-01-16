@@ -43,6 +43,16 @@
 
         </android.support.design.widget.TextInputLayout>
 
+        <TextView
+            android:id="@+id/request_reset_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:clickable="true"
+            android:textColor="#ff1565c0"
+            android:textStyle="bold"
+            android:text="@string/action_request_reset_password"/>
+
         <LinearLayout
             android:orientation="horizontal"
             android:layout_width="wrap_content"

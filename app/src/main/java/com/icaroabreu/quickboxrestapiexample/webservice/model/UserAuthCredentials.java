@@ -11,7 +11,7 @@ import lombok.Data;
 @JsonInclude(Include.NON_NULL)
 public class UserAuthCredentials {
 
-    private String password;
-
     private String login;
+
+    private String password;
 }

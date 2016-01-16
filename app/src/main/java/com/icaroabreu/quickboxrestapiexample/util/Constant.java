@@ -20,6 +20,7 @@ public class Constant {
      */
     public static final String SESSION_TOKEN = "_session_token";
     public static final String SESSION_ID = "_session_id";
+    public static final String USER_ID = "_user_id";
     public static final String USER_LOGIN = "_user_login";
     public static final String USER_PASSWORD = "_user_pass";
 
