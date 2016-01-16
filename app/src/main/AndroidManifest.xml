@@ -23,7 +23,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".UserDataActivity"></activity>
+        <activity android:name=".UserDataActivity"
+            android:screenOrientation="portrait"></activity>
     </application>
 
 </manifest>
